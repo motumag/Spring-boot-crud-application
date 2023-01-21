@@ -1,0 +1,9 @@
+server:
+  port: 8443
+  ssl:
+    enabled: true
+    key-alias: spring-https
+    key-store: classpath:sslmomo.jks
+    key-store-type: jks
+    key-store-password: pass123
+    key-password: pass123
