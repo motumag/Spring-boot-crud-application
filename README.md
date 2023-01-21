@@ -11,6 +11,17 @@
    <li>Database configuration in application.properties in resourse directory. You can use also yml configuration</li>
    <li>How to make https in spring boot, generate jks certeficate and use it.</li>
 </ul>
+<h3> Basic API'S</h3>
+
+<ul>
+    <h4><li>Create Employee record into database</li> </h4>
+    <h4><li>Fetch Employee from database using id</li> </h4>
+    <h4><li>Fetch all Employee by default</li> </h4>
+    <h4><li>Delete Employee by Id</li> </h4>
+    <h4><li>Update Employee by Id</li> </h4>
+</ul>
+
+
     
 [![Motuma Gishu Linkedin](https://www.linkedin.com/in/motuma-gishu-a04248185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVqQyRH54SuCX1VfeEQ%2FIzQ%3D%3D)
 
